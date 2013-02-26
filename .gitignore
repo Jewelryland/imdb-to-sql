@@ -1,0 +1,6 @@
+*.gz
+*.list
+*.pyc
+.DS_Store
+
+log/
