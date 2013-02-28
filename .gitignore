@@ -2,5 +2,10 @@
 *.list
 *.pyc
 .DS_Store
-
+*.komodoproject
 log/
+temp/
+movies.txt
+series.txt
+
+
